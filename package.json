@@ -1,0 +1,11 @@
+{
+  "name": "shapel",
+  "version": "1.0.0",
+  "description": "Shapel",
+  "main": "index.js",
+  "author": "Fripixel",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync . --watch --no-open --host 0.0.0.0 --port 8080"
+  }
+}
